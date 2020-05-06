@@ -1,0 +1,8 @@
+main: me.andreisava4.GodBoots.Main
+name: GodBoots
+version: 1.0
+author: andreisava4
+api-version: 1.13
+
+commands:
+  GodBoots:
